@@ -39,9 +39,11 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
-nav ul{
-  padding:0;
+
+nav ul {
+  padding: 0;
 }
+
 nav li {
   list-style: none;
   display: inline-block;
@@ -80,7 +82,7 @@ section {
 footer {
   text-align: right;
   background-color: black;
-  color:white;
+  color: white;
 }
 
 footer p {
@@ -88,7 +90,8 @@ footer p {
   padding: 20px;
   text-align: right;
 }
-footer p a{
+
+footer p a {
   color: white;
   text-decoration: none;
 }
@@ -145,6 +148,27 @@ form {
   justify-content: space-around;
   align-content: center;
 }
-p{
+
+p {
   text-align: justify;
+}
+
+table {
+  border: 3px dashed grey;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+tr {
+  background-color: grey;
+  text-align: center;
+}
+
+.lightblue {
+  background-color: cornflowerblue;
+}
+
+th {
+  font-weight: bold;
 }
