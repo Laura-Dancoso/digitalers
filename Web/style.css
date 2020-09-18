@@ -18,7 +18,7 @@ span {
 }
 
 nav {
-  position: sticky;
+  /* position: sticky; */
   top: 0;
   background-color: #51a66f;
   text-align: right;
